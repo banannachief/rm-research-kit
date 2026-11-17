@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+4-for-your-AI/working-files/
+4-for-your-AI/.venv/

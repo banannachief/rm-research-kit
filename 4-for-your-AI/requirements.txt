@@ -1,0 +1,6 @@
+# RoboMaster Research Kit - install into the kit's own .venv (see skills/kit-setup/SKILL.md)
+faster-whisper>=1.1,<1.3 # local speech-to-text for public videos and lectures
+av>=14,<19               # PyAV 19.0.0 dropped an argument faster-whisper 1.2.1 passes: every transcription fails
+yt-dlp[default,deno]>=2026.8.19   # video/audio access; the deno extra is the JavaScript runtime YouTube needs
+python-docx>=1.1         # course books (.docx)
+pypdf>=6.14,<7           # text of forum PDF reports and rules manuals (pdf-text); 6.14 caps decompressed streams

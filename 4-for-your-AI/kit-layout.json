@@ -1,0 +1,11 @@
+{
+ "about": "Where the lecture tools keep things in this kit. Read by tools/lecture_series.py; edit with care.",
+ "notes": "2-courses",
+ "cache": "4-for-your-AI/working-files",
+ "course_page": "COURSE-OVERVIEW.md",
+ "lectures_subdir": "lectures",
+ "overview_file": "lectures/overview.md",
+ "course_book": "COURSE-BOOK.docx",
+ "catalog": "ALL-COURSES.md",
+ "catalog_intro": "Every course you turn into English notes appears here, one folder each. In each folder, open COURSE-BOOK.docx to read the whole course, or COURSE-OVERVIEW.md for the summary and the list of lectures."
+}
